@@ -2,8 +2,10 @@
 Projeto desenvolvido na Trybe para avaliar as habilidades com JavaScript Vanilla.
 
 ## Requisitos do projeto
-(Retirado do README do projeto)
 ---
+
+(Retirado do README do projeto)
+
 
 ### 1 - Crie uma função usando o operador &&
 
